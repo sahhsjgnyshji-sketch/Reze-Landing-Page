@@ -15,7 +15,7 @@ const CONFIG = {
   supportServerUrl: "https://discord.gg/YOUR_SERVER_INVITE_CODE",
   
   // Bot name (for display)
-  botName: "Kali Billi",
+  botName: "Reze",
   
   // Bot description
   botDescription: "Your Cute Discord Companion - Fun, moderation, and AI chat for your Discord server."
